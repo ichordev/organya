@@ -1,8 +1,13 @@
 {
-	"authors": ["Aya Partridge"],
-	"description": "Organya music editor.",
-	"license": "BSD",
 	"name": "organya",
+	"description": "Organya music editor.",
+	"authors": ["Aya Partridge"],
+	"license": "BSD 3-clause",
+	
+	"dependencies": {
+		"bindbc-sdl": "~>1.3.0",
+		"bindbc-imgui": "~>1.0.0",
+	},
 	
 	"targetType": "executable",
 }
