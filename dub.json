@@ -1,0 +1,8 @@
+{
+	"authors": ["Aya Partridge"],
+	"description": "Organya music editor.",
+	"license": "BSD",
+	"name": "organya",
+	
+	"targetType": "executable",
+}
